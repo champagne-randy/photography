@@ -1,6 +1,6 @@
 ![mobble](http://cloud.scott.ee/images/mobble.png)
 
-# Photography
+# Photography repo for Randy Champagne Web Development
 
 * Contributors: [@randychampagne](http://twitter.com/randychampagne)
 * Description: This repo hosts photographic assets for the organization
